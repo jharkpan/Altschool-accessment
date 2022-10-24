@@ -1,0 +1,50 @@
+# Linux commands assignment
+
+### Here are a few linux commands i researched for the assignment and their uses.
+
+* ## Cal  
+      Used to display a calendar in your terminal.
+
+* ## bc
+       It allows you to enable command line calculator in Linux Terminal when you execute it.
+
+* ## factor
+      Factor is a mathematical command  for Linux terminal which will give you all the possible factors of the decimal number you enter in the shell.
+
+* ## ping
+      If you want to check if your system is connected to router or internet then PING (Packet INternet Groper) is the command for you. It uses ICMP protocol to connect to other devices.    
+
+* ## free
+      free command can be used to check exactly what amount of storage is free and used in physical as well as swap memory in the system.   
+
+* ## ifconfig
+      ifconfig is used to view and change the configuration of the network intterface of your system
+
+* ## man
+      is used to display the user manual of any command that we can run on the terminal       
+
+* ## w
+      w is the short and simple command which will help you view the list of currently logged in users.
+
+* ## whoami
+      This command will help you to find out which user is logged into system or who you are logged in as.
+
+* ## expr
+      If you want to perform quick calculations during your work then expr is really useful command for you.
+
+
+### For visual Illustrations
+![Screenshot (2)](https://user-images.githubusercontent.com/48360536/197648966-860cba3f-f8dd-44d7-b26c-419075391799.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/48360536/197649005-b85be745-340a-4afd-87a4-cab3e67d1476.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/48360536/197649073-caf041e6-9487-4bb4-a950-5e3bb5470383.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/48360536/197649092-45136842-8f34-44ca-be49-a56713850d4b.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/48360536/197649118-e3d5812a-8596-449f-80b2-e212d3f269b4.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/48360536/197649390-88def808-a86a-4c9e-af94-77280baef4bb.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/48360536/197649424-2e31fed0-2006-44a4-b1a8-0099fdfe4dc1.png)
+
