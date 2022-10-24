@@ -8,9 +8,9 @@ systemd-coredump:x :999:999:systemd Core Dumper:/:/usr/sbin/nologin
 ubuntu:x :1001:1001:Ubuntu:/home/ubuntu:/bin/bash
 lxd:x :998:100 ::/var/snap/lxd/common/lxd:/bin/false
 usbmux:x :112:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
-diddy:x :1002:116::/home/diddy:/usr/bin/bash
-danny:x :1003:1002::/home/danny:/usr/bin/bash
-dee:x :1004:1003::/home/dee:/usr/bin/bash
+lade:x :1002:116::/home/diddy:/usr/bin/bash
+precious:x :1003:1002::/home/danny:/usr/bin/bash
+lade:x :1004:1003::/home/dee:/usr/bin/bash
 
 
 ## Contents of /etc/group
